@@ -1,3 +1,5 @@
+package switchElse;
+
 public class switchElse {
   public static void main(String[] args) {
     /*

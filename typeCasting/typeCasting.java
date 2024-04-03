@@ -1,3 +1,5 @@
+package typeCasting;
+
 public class typeCasting {
   public static void main(String[] args) {
     /*

@@ -1,3 +1,5 @@
+package identifier;
+
 public class identifier {
   public static void main(String[] args) {
     /*

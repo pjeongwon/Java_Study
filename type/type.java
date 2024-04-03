@@ -1,3 +1,5 @@
+package type;
+
 public class type {
   public static void main(String[] args) {
     /*
